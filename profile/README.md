@@ -6,6 +6,16 @@ Welcome to the GitHub of the Maghreb Operations Team on VATSIM!
 
 Our team operates within the VATSIM network, providing air traffic control tools for airports within the Maghreb region, including Algeria, Tunisia, and Morocco.
 
+## The Operations Team
+
+Our operations team consists of the following members:
+
+- Bobbie Chell, Operations Director - 1444138
+- Ali Badreldeen, Operations Deputy Director - 1448616
+- Emir Dhil-Maanli, Algeria FIR Developer - 1516924
+External:
+- Mohammed B, Algeria FIR Developer - 1486647
+
 ## Repository Contents
 
 This repository contains various resources and tools used by our team to support our operations on VATSIM, including some publicly available resources as well as private repositories still in development.
