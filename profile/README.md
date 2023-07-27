@@ -13,7 +13,6 @@ Our operations team consists of the following members:
 - Bobbie Chell, Operations Director - 1444138
 - Ali Badreldeen, Operations Deputy Director - 1448616
 - Emir Dhil-Maanli, Algeria FIR Developer - 1516924
-
 - External:
 - Mohammed B, Algeria FIR Developer - 1486647
 
