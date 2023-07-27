@@ -24,6 +24,15 @@ This repository contains various resources and tools used by our team to support
 - SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://docs.vatsim.ma/)
 - Tools for our controllers
 
+## Current Projects
+
+Our team is currently working on the following projects:
+
+- Development of the INDRA system, which will enhance the realism for our ATCOs
+- Finalizing the Tunisia sector file
+
+We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region, and we believe that these projects will help us achieve that goal. If you are interested in contributing to any of our projects, please feel free to contact us.
+
 ## Contributing
 
 We welcome contributions from anyone interested in supporting our operations on VATSIM. If you have experience in air traffic control, aviation, or simulation, and are interested in contributing to our team, please contact us via our Discord server or contact me directly on discord; .bobbie
