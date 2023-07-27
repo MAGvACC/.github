@@ -21,7 +21,7 @@ Our operations team consists of the following members:
 This repository contains various resources and tools used by our team to support our operations on VATSIM, including some publicly available resources as well as private repositories still in development.
 
 - Sector files for air traffic controllers
-- SOPs and other documentation for controllers and pilots
+- SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://vatsim.ma)
 - Tools for our controllers
 
 ## Contributing
