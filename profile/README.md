@@ -30,7 +30,7 @@ Our team is currently working on the following projects:
 
 - Development of the INDRA system, which will enhance the realism for our ATCOs
 - Finalizing the Tunisia sector file
-- We're working on a new website and HQ for the Maghreb region with Ilyass Baba, Tech Director - 1674212. Who runs [this github](https://github.com/Maghreb-vACC-Tech).
+- As a team, we are working on a new website and headquarters for the Maghreb region, in collaboration with Ilyass Baba, our Tech Director - 1674212
 
 We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region, and we believe that these projects will help us achieve that goal. If you are interested in contributing to any of our projects, please feel free to contact us.
 
