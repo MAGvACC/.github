@@ -1,12 +1,19 @@
-## Hi there 👋
+# Maghreb Operations on VATSIM
 
-<!--
+Welcome to the GitHub of the Maghreb Operations Team on VATSIM!
 
-**Here are some ideas to get you started:**
+## Operations
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our team operates within the VATSIM network, providing air traffic control tools for airports within the Maghreb region, including Algeria, Tunisia, and Morocco.
+
+## Repository Contents
+
+This repository contains various resources and tools used by our team to support our operations on VATSIM, including:
+
+- Sector files for air traffic controllers
+- SOPs and other documentation for controllers and pilots
+- Tools for our controllers
+
+## Contributing
+
+We welcome contributions from anyone interested in supporting our operations on VATSIM. If you have experience in air traffic control, aviation, or simulation, and are interested in contributing to our team, please contact us via our Discord server or contact me directly on discord; .bobbie
