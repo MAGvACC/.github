@@ -1,4 +1,4 @@
-# Maghreb Operations on VATSIM
+# Maghreb vACC Github
 
 Welcome to the GitHub of the Maghreb Operations Team on VATSIM!
 
