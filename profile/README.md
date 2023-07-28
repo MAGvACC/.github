@@ -32,8 +32,8 @@ Our team is currently working on the following projects:
 - Finalizing the Tunisia sector file
 - As a team, we are working on a new website and headquarters for the Maghreb region, in collaboration with Ilyass Baba, our Tech Director - 1674212
 
-We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region, and we believe that these projects will help us achieve that goal.
+We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region.
 
 ## Contributing
 
-We welcome contributions from anyone interested in supporting our operations on VATSIM. If you have experience in thr development of tools involving JS, C#, C++, etcetera... and are interested in contributing to our team, please contact us via our Discord server by opening a ticket or contact me directly on discord; .bobbie
+We welcome contributions from anyone interested in supporting our operations on VATSIM. If you have experience in the development of tools involving but not limited to, JS, C#, C++, etc., and are interested in contributing to our team, please contact us via our Discord server by opening a ticket or contact me directly on discord; .bobbie
