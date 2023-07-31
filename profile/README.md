@@ -4,7 +4,7 @@ Welcome to the Official GitHub of the Maghreb Region on VATSIM!
 
 ## Operations
 
-Our team operates within the VATSIM network, providing air traffic control resources within the Maghreb region, including Algeria, Tunisia, and Morocco.
+Our team operates within the VATSIM network, providing air traffic control resources within the Maghreb region, including Algeria, Tunisia, and Morocco. Additionally, our team also works on developing and implementing technology with our Tech Department.
 
 ## The Operations Team
 
