@@ -24,7 +24,7 @@ This repository contains various resources and tools used by our team to support
 - SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://docs.vatsim.ma/)
 - Tools for our controllers
 
-## Although most of our repositories are private, if you have any questions about the technology we use in Maghreb, please contact '.bobbie' on Discord if you have any questions.
+## Although most of our repositories are private, if you have any questions about the technology we use in Maghreb, please contact '.bobbie'
 
 ## Current Projects
 
