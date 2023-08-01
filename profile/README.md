@@ -24,13 +24,15 @@ This repository contains various resources and tools used by our team to support
 - SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://docs.vatsim.ma/)
 - Tools for our controllers
 
+Although most of our repositories are private, if you have any questions about the technology we use in Maghreb, please contact '.bobbie' on Discord if you have any questions.
+
 ## Current Projects
 
 Our team is currently working on the following projects:
 
 - Development of the INDRA system, which will enhance the realism for our ATCOs
 - Finalizing the Tunisia sector file
-- As a team, we are working on a new website and headquarters for the Maghreb region, in collaboration with Ilyass Baba, our Tech Director - 1674212
+- As a team, we are working on a new website and headquarters for the Maghreb region, in collaboration with Ilyass Baba - 1674212 - our Tech Director 
 
 We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region.
 
