@@ -21,7 +21,7 @@ Our operations team consists of the following members:
 This repository contains various resources and tools used by our team to support our operations on VATSIM, including some publicly available resources as well as private repositories still in development.
 
 - Sector files for air traffic controllers
-- SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://docs.vatsim.ma/)
+- SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://docs.vatsim.ma/) (No longer updated as V2 is now in development.)
 - Tools for our controllers
 
 ## Although most of our repositories are private, if you have any questions about the technology we use in Maghreb, please contact '.bobbie'
@@ -31,8 +31,7 @@ This repository contains various resources and tools used by our team to support
 Our team is currently working on the following projects:
 
 - Development of the INDRA system, which will enhance the realism for our ATCOs
-- Finalizing the Tunisia sector file
-- As a team, we are working on a new website and headquarters for the Maghreb region, in collaboration with Ilyass Baba - 1674212 - our Tech Director 
+- As a team, we are working on a new website and headquarters for the Maghreb region, in collaboration with Ilyass Baba - 1674212 - our Tech Director
 
 We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region.
 
