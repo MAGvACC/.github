@@ -23,6 +23,7 @@ This repository contains various resources and tools used by our team to support
 - Sector files for air traffic controllers
 - SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://docs.vatsim.ma/) (No longer updated as V2 is now in development.)
 - Tools for our controllers
+- Brand new Sectorfile Installer/Updater for all three FIRs
 
 ## Although most of our repositories are private, if you have any questions about the technology we use in Maghreb, please contact '.bobbie'
 
