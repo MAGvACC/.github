@@ -29,7 +29,7 @@ This repository contains various resources and tools used by our team to support
 
 Our team is currently working on the following projects:
 
-- To Be Updated
+- Maghreb Website V2 (Core)
 
 We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region.
 
