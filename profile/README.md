@@ -13,15 +13,13 @@ Our operations team consists of the following members:
 - Bobbie Chell, Operations Director - 1444138
 - Ali Badreldeen, Operations Special Advisor - 1448616
 - Emir Dhil-Maanli, Algeria FIR Developer - 1516924
-- External:
-- Mohammed B, Algeria FIR Developer - 1486647
 
 ## Repository Contents
 
 This repository contains various resources and tools used by our team to support our operations on VATSIM, including some publicly available resources as well as private repositories still in development.
 
 - Sector files for air traffic controllers
-- SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://docs.vatsim.ma/) (No longer updated as V2 is now in development.)
+- SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://wiki.vatsim.ma/)
 - Tools for our controllers
 - Brand new Sectorfile Installer/Updater for all three FIRs
 
@@ -31,8 +29,7 @@ This repository contains various resources and tools used by our team to support
 
 Our team is currently working on the following projects:
 
-- Development of the INDRA system, which will enhance the realism for our ATCOs
-- As a team, we are working on a new website and headquarters for the Maghreb region, in collaboration with Ilyass Baba - 1674212 - our Tech Director
+- To Be Updated
 
 We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region.
 
