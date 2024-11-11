@@ -20,7 +20,7 @@ This repository contains various resources and tools used by our team to support
 
 - Sector files for air traffic controllers
 - SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://wiki.vatsim.ma/)
-- Tools for our controllers
+- Tools / Plugins for our controllers
 - Brand new Sectorfile Installer/Updater for all three FIRs
 
 ## Although most of our repositories are private, if you have any questions about the technology we use in Maghreb, please contact '.bobbie'
@@ -30,9 +30,11 @@ This repository contains various resources and tools used by our team to support
 Our team is currently working on the following projects:
 
 - Maghreb Website V2 (Core)
+- Documentation
+- FIR Plugin
 
 We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region.
 
 ## Contributing
 
-We welcome contributions from anyone interested in supporting our operations on VATSIM. If you have experience in the development of tools involving but not limited to, JS, C#, C++, etc., and are interested in contributing to our team, please contact us via our Discord server by opening a ticket or contact me directly on discord; .bobbie
+We welcome contributions from anyone interested in supporting our operations on VATSIM. If you have experience in the development of tools involving but not limited to, JS, C#, C++, etc., and are interested in contributing to our team, please contact us via our Maghreb discord server by opening a ticket.
