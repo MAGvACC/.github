@@ -22,8 +22,9 @@ This repository contains various resources and tools used by our team to support
 - SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://wiki.vatsim.ma/)
 - Tools / Plugins for our controllers
 - Brand new Sectorfile Installer/Updater for all three FIRs
+- Web Development
 
-## Although most of our repositories are private, if you have any questions about the technology we use in Maghreb, please contact '.bobbie'
+## Although most of our repositories are private, if you have any questions about the technology we use in Maghreb, please open a ticket in the [Maghreb Discord](https://community.vatsim.net/)
 
 ## Current Projects
 
@@ -31,7 +32,7 @@ Our team is currently working on the following projects:
 
 - Maghreb Website V2 (Core)
 - Documentation
-- FIR Plugin
+- FIR Plugin(s)
 
 We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region.
 
