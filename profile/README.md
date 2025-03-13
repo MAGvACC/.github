@@ -19,7 +19,7 @@ Our operations team consists of the following members:
 This repository contains various resources and tools used by our team to support our operations on VATSIM, including some publicly available resources as well as private repositories still in development.
 
 - Sector files for air traffic controllers
-- SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://wiki.vatsim.ma/)
+- SOPs and other documentation for controllers and pilots, which can be found on our [documentation site](https://docs.vatsim.ma/)
 - Tools / Plugins for our controllers
 - Brand new Sectorfile Installer/Updater for all three FIRs
 - Web Development
@@ -33,6 +33,7 @@ Our team is currently working on the following projects:
 - Maghreb Website V2 (Core)
 - Documentation
 - FIR Plugin(s)
+- Technologies new to VATSIM
 
 We are committed to providing the best possible experience for virtual pilots and controllers in the Maghreb region.
 
